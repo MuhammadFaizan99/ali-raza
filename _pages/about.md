@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an **Assistant Professor of Computer Science** in the [College of Computing at Grand Valley State University (GVSU)](https://www.gvsu.edu/computing). 
+I am an **Assistant Professor of Computer Science** in the College of Computing at Grand Valley State University.
